@@ -1,5 +1,5 @@
-# Tasks
-## Hi,I'm Fu Jiarui! 😊欢迎来到我在GitHub上的第一个仓库！🤩
+# Hi,I'm Fu Jiarui!😊
+## 欢迎来到我在GitHub上的第一个仓库!🤩
 ### 🎓 关于我
 - 🏫 就读于 **中南民族大学 计算机科学与技术专业**
 - 🌱 目前在学习：**C语言、Git 与 GitHub**
