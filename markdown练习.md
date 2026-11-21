@@ -28,9 +28,10 @@ return 0;
 ```
 
 数学公式
-```math
+
+$$
 \frac{\partial f}{\partial x}=2\sqrt{a}x
-```
+$$
 
 表格
 |a|b|c|
