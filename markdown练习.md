@@ -12,7 +12,7 @@
 
 无序列表：
 - 高数
-- 现代
+- 线代
 * 近代史
 
 任务列表：
@@ -28,9 +28,9 @@ return 0;
 ```
 
 数学公式
-$$
-\frac{\partial fr}{\partial x}=2\sqrt{a}x
-$$
+```math
+\frac{\partial f}{\partial x}=2\sqrt{a}x
+```
 
 表格
 |a|b|c|
@@ -38,4 +38,5 @@ $$
 |  |  |
 |--|--|
 |  |  |
+
 
